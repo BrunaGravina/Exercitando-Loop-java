@@ -1,15 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 
 package com.mycompany.exerciciowhile;
 
 import java.util.Scanner;
 
-/**
- *
- * @author bruna
- */
+
 public class Exerciciowhile {
 
     public static void main(String[] args) {
